@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">DLGAndroidTest</string>
+    <string name="green_flag_logo">green_flag_logo</string>
+    <string name="intro">GreenFlag customers can\ncreate an account to access</string>
+    <string name="checked1">Car health updates</string>
+    <string name="checked2">Request a rescue online</string>
+    <string name="checked3">Policy information</string>
+    <string name="check_mark3">check_mark 3</string>
+    <string name="check_mark2">check_mark 2</string>
+    <string name="check_mark1">check_mark 1</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="back_button">back_button</string>
+    <string name="email_address">Email address</string>
+    <string name="create_password">Create password</string>
+    <string name="repeat_password">Repeat password</string>
+    <string name="see_criteria_below">See criteria below</string>
+    <string name="password_limit">Your password should have a minimum of 8\ncharacters and contain at least one\n number, one uppercase and one lower\ncase letter. You can use special characters.</string>
+    <string name="next_string">Next</string>
+    <string name="next_button">next_button_</string>
+    <string name="password_not_match">Your passwords don\'t\n match</string>
+    <string name="email_exist">An account already exists\n for this email address</string>
+    <string name="password_invalid">One of the passwords you\n entered wasn\'t valid</string>
+    <string name="email_invalid">Invalid Email</string>
+    <string name="no_image">No Image</string>
+    <string name="error_symbol">error symbol</string>
+    <string name="tick_symbol">tick symbol</string>
+
+</resources>
